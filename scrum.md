@@ -1,3 +1,9 @@
-moi
-##Roolit
-Jokaisella tiimi pelaajalla on -omakohtainen- tehtävänsä
+
+# Scrum-ohje
+Scrummerit4ever
+## Scrum-syklin yleiskuvaus
+## Sprintit
+## Työjonot
+## Roolit
+## Kokoukset
+## Miksi Scrum toimii?
