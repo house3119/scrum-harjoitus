@@ -5,6 +5,7 @@ Scrummerit4ever
 ## Sprintit
 ## Työjonot
 ## Roolit
+Jokaisella henkilöllä on -oma- roolinsa
 ## Kokoukset
 ## Miksi Scrum toimii?
 
