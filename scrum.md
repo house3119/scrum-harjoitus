@@ -7,6 +7,7 @@ Projektin kokonaispituus on 16 viikkoa?  Yksi sprintti kestää viikon ja se kat
 ## Työjonot
 ## Roolit
 Jokaisella henkilöllä on _oma_ roolinsa
+Rooleja: tuoteomistaja, scrum master ja ohjelmoijat.
 ## Kokoukset
 ## Miksi Scrum toimii?
 
