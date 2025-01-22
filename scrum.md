@@ -13,4 +13,12 @@ Rooleja: tuoteomistaja, scrum master ja ohjelmoijat.
 ## Kokoukset
 Kokoukset ja yhteydenpito teamsin kautta
 ## Miksi Scrum toimii?
+### Yksinkertaisuus
+Scrum-mallin kehityskehyksen yksinkertaisuus vähentää hallinnollista kuormaa, jolloin tiimin työ voidaan suunnata tehokkaammin itse kehitystyöhön.
 
+Lisäksi Scrum-malli lyhentää kehityssyklejä ja tuo mukanaan joustavuutta, joka mahdollistaa sen, että tiimit voivat tehokkaammin ja nopeammin vastata muuttuviin businessvaatimuksiin ja markkinaolosuhteisiin.
+### Joustavuus
+Joustavuus mahdollistaa sen, että jokainen tiimi voi luoda itselleen sopivan version Scrum-mallista.
+
+### Lähteet
+1. [https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework](https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework)
