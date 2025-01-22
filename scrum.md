@@ -6,6 +6,7 @@ Projektin kokonaispituus on 16 viikkoa?  Yksi sprintti kestää viikon ja se kat
 ## Sprintit
 Scrummissa jaetaan projektin työt pienempiin, hallittaviin osiin, joita kutsutaan *sprinteiksi*. Sprintin aikajakso on tyypillisesti **2-4 viikkoa**, jonka aikana tiimi pyrkii saattamaan valmiiksi määritellyn työmäärän. Jos edellistä sprinttiä __ei__ saada suoritetuksi aikataulussa, ei sprintille anneta lisä aikaa, vaan sitä jatketaan seuraavassa sprintissä.
 ## Työjonot
+Työjonon tehtävät määritellään yhdessä tiimin kesken, sopivan lyhyiksi ja tehokkaiksi. Tehtävät järjestetään projektin kannalta tärkeysjärjestykseen saavuttaaksemme tuottoisan työjonon.
 ## Roolit
 Jokaisella henkilöllä on _oma_ roolinsa
 Rooleja: tuoteomistaja, scrum master ja ohjelmoijat.
