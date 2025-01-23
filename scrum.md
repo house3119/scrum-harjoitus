@@ -15,7 +15,14 @@ Scrummissa jaetaan projektin työt pienempiin, hallittaviin osiin, joita kutsuta
 Työjonon tehtävät määritellään yhdessä tiimin kesken, sopivan lyhyiksi ja tehokkaiksi. Tehtävät järjestetään projektin kannalta tärkeysjärjestykseen saavuttaaksemme tuottoisan työjonon.
 ## Roolit
 Jokaisella henkilöllä on _oma_ roolinsa
-Rooleja: tuoteomistaja, scrum master ja ohjelmoijat.
+
+Rooleja: 
+* tuoteomistaja - Maksimoi syntyvän tuotteen arvon. Hallinnoi Product Backlogia 
+* scrum master - On vastuussa siitä, että Scrum-menetelmää käytetään oikein. On vastuussa Scrum-tiimin tehokkuudesta.
+* ohjelmoijat - Tuottavat suunnitelman sprintille ja toteuttavat sen
+[lähde](https://scrumguides.org/scrum-guide.html)
+
+
 ## Kokoukset
 Kokoukset ja yhteydenpito teamsin kautta
 ## Miksi Scrum toimii?
