@@ -25,7 +25,7 @@ Rooleja:
 
 ## Kokoukset
 Kokoukset ja yhteydenpito teamsin kautta
-## Miksi Scrum toimii?
+## Miksi Scrum toimii????
 ### Yksinkertaisuus
 Scrum-mallin kehityskehyksen yksinkertaisuus vähentää hallinnollista kuormaa, jolloin tiimin työ voidaan suunnata tehokkaammin itse kehitystyöhön.
 
