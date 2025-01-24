@@ -65,7 +65,19 @@ Scrum-tiimin jäsenien tulee olla avoimia ja viestiä rehellisesti. Avoimuus aut
 **_Kunnioitus_**     
 Kun tehdään yhteistyötä tiimin kesken, on eriävät mielipiteet välttämättömiä. Erilaisten näkökulmien huomioiminen on osa tiimityötä. Kunnioitus muita kohtaan edellyttää sitoutumista arvostaa toisten mielipiteitä, eriäviä näkemyksiä ja yksilöllisiä eroja. Monimuotoisuus tuo mukanaan uusia näkökulmia ja enemmän ideoita. Tiimin jäsenet jotka tuntevat itsensä kunnioitetuksi tuovat todennäköisemmin esille omia ajatuksiaan, mikä vahvistaa positiivista ilmapiiriä. Kunnioitus muita jäseniä kohtaan on edellytys onnistuneelle projektille. 
 
+## Scrumin heikkoudet tai sudenkuopat yleisesti ja tällä kurssilla
 
+**_Huono kommunikaatio_**
+ Scrum-menetelmän tehokkuus parhaalla mahdollisella tavalla vaatii hyvää kommunikaatiota tuoteomistajan, Scrum Masterin ja toteutustiimin kesken. Etäkurssilla tämä tulee olemaan haaste, kun kaikki opiskelijat teemme projektia etänä ja ovat töissä opiskelujen ohella.  
+
+ **_Koulutus on puutteellinen eikä sääntöjä noudateta_**
+Vaikka opettelemme vasta Scrum menetelmää ja sen soveltamista, on mielenkiintoista huomata, kuinka tämä on nostettu viidestä tärkeimmästä sudenkuopasta myös työelämäss.  
+
+Muita haasteita Scrumin käytössä ovat:
+**_Epäselvät tavoitteet ja odotukset_**
+**_Retrospektiivien ideoita ei tuoda käytäntöön_**
+**_Puutteellinen sitoutuminen_**
+Näitä voidaan käsitellä lisää, kun päästään projektissa eteenpäin 
 
 ## Lähteet
 1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
@@ -74,5 +86,5 @@ Kun tehdään yhteistyötä tiimin kesken, on eriävät mielipiteet välttämät
 4. https://www.atlassian.com/blog/teamwork/the-importance-of-teamwork
 5. https://apmg-international.com/article/top-10-benefits-scrum-and-frequent-challenges
 6. https://www.atlassian.com/agile/project-management/scrum-values
-
+7. https://www.cgi.com/fi/fi/blogi/scrumin-sudenkuopat-ja-miten-ne-ylitetaan
 
