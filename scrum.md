@@ -50,19 +50,19 @@ Yhteistyön hyödyt
 ### Scrumin viisi arvoa
 "Scrumin arvot" tarjoavat eettisen koodin sekä käyttäytymis-suuntaviivan, joita tiimin jäsenien tulisi noudattaa. Nämä arvot auttavat luomaan luottamusta ja kunnioitusta muita tiimin jäseniä kohtaan. Nämä viisi arvoa ovat seuraavat:
 
-**Sitoutuminen** 
+**_Sitoutuminen_**   
 Scrum-tiimin jäsenet työskentelevät yhdessä. Tämä vaatii luottamusta siihen, että tiimikaveri on sitoutunut. Jokaisen jäsenen tulee sitoutua sprintin prosessiin ja arvon luontiin asiakkaalle. Sitoutuminen auttaa myös luomaan luottamusta tiimin sisällä. 
 
-**Rohkeus**
+**_Rohkeus_**    
 Innovaatio vaatii rohkeutta. Todelliset läpimurrot syntyvät kun tiimin jäsenet uskaltavat olla rohkeita. Rohkeus on myös sitä, että uskalletaan sanoa ei epärealistisille vaatimuksille tai aikatauluille. Projektipäälliköt, jotka kannustavat rehellisiin keskusteluihin motivoi tiimin jäseniä ja edistää jatkuvaa kehitystä. 
 
-**Keskittyminen**
+**_Keskittyminen_**    
 Laadukkaat sprintit vaativat keskittymistä. Scrumin työkalut auttavat tiimiä pysymään keskittyneenä tärkeimpiin tehtäviin ja tavoitteisiin. Tämä on tärkeää, jotta projektitavoitteet saavutetaan ajallaan ja johdonmukaisesti. 
 
-**Avoimuus**
+**_Avoimuus_**   
 Scrum-tiimin jäsenien tulee olla avoimia ja viestiä rehellisesti. Avoimuus auttaa tiimiä havaitsemaan ongelmakohtia, löytämään ratkaisuja sekä arvostamaan jokaisen tuomaa panosta. Avoimuus on suuri osa onnistunutta projektia. 
 
-**Kunnioitus** 
+**_Kunnioitus_**     
 Kun tehdään yhteistyötä tiimin kesken, on eriävät mielipiteet välttämättömiä. Erilaisten näkökulmien huomioiminen on osa tiimityötä. Kunnioitus muita kohtaan edellyttää sitoutumista arvostaa toisten mielipiteitä, eriäviä näkemyksiä ja yksilöllisiä eroja. Monimuotoisuus tuo mukanaan uusia näkökulmia ja enemmän ideoita. Tiimin jäsenet jotka tuntevat itsensä kunnioitetuksi tuovat todennäköisemmin esille omia ajatuksiaan, mikä vahvistaa positiivista ilmapiiriä. Kunnioitus muita jäseniä kohtaan on edellytys onnistuneelle projektille. 
 
 
@@ -70,3 +70,9 @@ Kun tehdään yhteistyötä tiimin kesken, on eriävät mielipiteet välttämät
 ## Lähteet
 1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 2. [https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework](https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework)
+3. https://www.betterup.com/blog/benefits-of-teamwork
+4. https://www.atlassian.com/blog/teamwork/the-importance-of-teamwork
+5. https://apmg-international.com/article/top-10-benefits-scrum-and-frequent-challenges
+6. https://www.atlassian.com/agile/project-management/scrum-values
+
+
