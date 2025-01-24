@@ -81,7 +81,7 @@ Näitä voidaan käsitellä lisää, kun päästään projektissa eteenpäin
 
 ### Ketterä it-helvetti, eli kaikkia Scrum ei miellytä
 
-Hiukan humoristisia otteita Suomi24 keskustelupalstalta vuodelta 2009
+Hiukan humoristisia otteita Suomi24 keskustelupalstalta vuodelta 2009. Tästä keskustelusta on luettavissa, että ketteriä menetelmiä voidaan käytää myös huonosti.
 
 "Aluksi tuli agile ja scrum, joilloin saimme vihdoin kauan kaivatun oikeiden päivittäin raportoida tekemisiämme. Todella hienoa! varmasti jokainen, joka joutuu työskentelemään ilman jokapäiväistä seurantaa kadehtii meitä kehittäjiä. Eipä enää koodarit pääse notkumaan tyhjän panttina, kun tekemisten seuranta on saatu melkein reaaliaikaiseksi.
 Nyt otetaan sitten käytöön uusi hieno käytäntö. Jokainen rivi koodia, jonka kirjoitamme, tarkistutetaan toisella kehittäjällä. Tästähän me kaikki olemme unelmoineet. Sanotaan sitä vaikka katselmoinniksi, koska kyttääminen kuulostaa pahemmalta, vaikka asia ei siitä miksikään muutu. Siis kulkeeko sairaanhoitajat osastolla joku toinen olan takana tarkistamassa kaikki työvaiheet? Miksei HKL:n kuljettajilla ole kakkoskuskia, jonka tehtävät on tarkkailla ratissa istuvan työn laatu?"
