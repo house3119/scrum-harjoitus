@@ -1,6 +1,6 @@
-
+g
 # Scrum-ohje
-Scrummerit4ever
+ryhmän nimi Scrummerit4ever
 ## Scrum-syklin yleiskuvaus
 Tämän projektin kokonaispituus on 16 viikkoa, kalenteriviikot 3-7 ja 9-11. Yksi sprintti kestää viikon ja se katselmoidaan tiistaisin klo 17.40-20.30 välisenä aikana, jolloin myös suunnitellaan seuraava sprintti.
 
@@ -10,7 +10,7 @@ Scrumissa hyödynnetään Product Backlogia, joka muovautuu projektin aikana. Pr
 [lähde](https://scrumguides.org/scrum-guide.html) 
 
 ## Sprintit
-Scrummissa jaetaan projektin työt pienempiin, hallittaviin osiin, joita kutsutaan *sprinteiksi*. Sprintin aikajakso on tyypillisesti **2-4 viikkoa**, jonka aikana tiimi pyrkii saattamaan valmiiksi määritellyn työmäärän. Jos edellistä sprinttiä __ei__ saada suoritetuksi aikataulussa, ei sprintille anneta lisä aikaa, vaan sitä jatketaan seuraavassa sprintissä.
+Scrummissa jaetaan projektin työt pienempiin, hallittaviin osiin, joita kutsutaan *sprinteiksi*. Sprintin aikajakso on tyypillisesti **2-4 viikkoa**, jonka aikana tiimi pyrkii saattamaan valmiiksi määritellyn työmäärän. Jos edellistä sprinttiä __ei__ saada suoritetuksi aikataulussa, ei sprintille anneta lisäaikaa, vaan sitä jatketaan seuraavassa sprintissä.
 ## Työjonot
 Työjonon tehtävät määritellään yhdessä tiimin kesken, sopivan lyhyiksi ja tehokkaiksi. Tehtävät järjestetään projektin kannalta tärkeysjärjestykseen saavuttaaksemme tuottoisan työjonon.
 ## Roolit
