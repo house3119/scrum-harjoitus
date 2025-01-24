@@ -47,7 +47,25 @@ Yhteistyön hyödyt
 9. **Parempi kommunikaatio**
 10. **Parantaa sosiaalisia taitoja** 
 
-###
+### Scrumin viisi arvoa
+"Scrumin arvot" tarjoavat eettisen koodin sekä käyttäytymis-suuntaviivan, joita tiimin jäsenien tulisi noudattaa. Nämä arvot auttavat luomaan luottamusta ja kunnioitusta muita tiimin jäseniä kohtaan. Nämä viisi arvoa ovat seuraavat:
+
+**Sitoutuminen** 
+Scrum-tiimin jäsenet työskentelevät yhdessä. Tämä vaatii luottamusta siihen, että tiimikaveri on sitoutunut. Jokaisen jäsenen tulee sitoutua sprintin prosessiin ja arvon luontiin asiakkaalle. Sitoutuminen auttaa myös luomaan luottamusta tiimin sisällä. 
+
+**Rohkeus**
+Innovaatio vaatii rohkeutta. Todelliset läpimurrot syntyvät kun tiimin jäsenet uskaltavat olla rohkeita. Rohkeus on myös sitä, että uskalletaan sanoa ei epärealistisille vaatimuksille tai aikatauluille. Projektipäälliköt, jotka kannustavat rehellisiin keskusteluihin motivoi tiimin jäseniä ja edistää jatkuvaa kehitystä. 
+
+**Keskittyminen**
+Laadukkaat sprintit vaativat keskittymistä. Scrumin työkalut auttavat tiimiä pysymään keskittyneenä tärkeimpiin tehtäviin ja tavoitteisiin. Tämä on tärkeää, jotta projektitavoitteet saavutetaan ajallaan ja johdonmukaisesti. 
+
+**Avoimuus**
+Scrum-tiimin jäsenien tulee olla avoimia ja viestiä rehellisesti. Avoimuus auttaa tiimiä havaitsemaan ongelmakohtia, löytämään ratkaisuja sekä arvostamaan jokaisen tuomaa panosta. Avoimuus on suuri osa onnistunutta projektia. 
+
+**Kunnioitus** 
+Kun tehdään yhteistyötä tiimin kesken, on eriävät mielipiteet välttämättömiä. Erilaisten näkökulmien huomioiminen on osa tiimityötä. Kunnioitus muita kohtaan edellyttää sitoutumista arvostaa toisten mielipiteitä, eriäviä näkemyksiä ja yksilöllisiä eroja. Monimuotoisuus tuo mukanaan uusia näkökulmia ja enemmän ideoita. Tiimin jäsenet jotka tuntevat itsensä kunnioitetuksi tuovat todennäköisemmin esille omia ajatuksiaan, mikä vahvistaa positiivista ilmapiiriä. Kunnioitus muita jäseniä kohtaan on edellytys onnistuneelle projektille. 
+
+
 
 ## Lähteet
 1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
