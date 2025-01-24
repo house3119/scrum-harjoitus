@@ -23,13 +23,19 @@ Rooleja:
 ## Kokoukset
 Kokoukset ja yhteydenpito teamsin kautta.
 Kokouksen yhteyksissä, keskustellaan käynnissä olevista sprintteistä, ongelma tilanteista ja parannus ehdotuksista. Kokouksissa käsitellään myös seuraavia sprinttejä ja yleistä suorittamista. Kokousten tavoitteena on edes auttaa projektin kehitystä kohti tähdättyä arvosanaa.
-## Miksi Scrum toimii????
+
+## Scrumin vahvuudet
 ### Yksinkertaisuus
 Scrum-mallin kehityskehyksen yksinkertaisuus vähentää hallinnollista kuormaa, jolloin tiimin työ voidaan suunnata tehokkaammin itse kehitystyöhön (2).
-
 Lisäksi Scrum-malli lyhentää kehityssyklejä ja tuo mukanaan joustavuutta, joka mahdollistaa sen, että tiimit voivat tehokkaammin ja nopeammin vastata muuttuviin businessvaatimuksiin ja markkinaolosuhteisiin.
 ### Joustavuus
-Joustavuus mahdollistaa sen, että jokainen tiimi voi luoda itselleen sopivan version Scrum-mallista.
+Scrum-menetelmä voi mukautua eri tiimien ja projektien tarpeisiin. Oli kyseessä pieni startup-yritys tai suurempi pörssiyhtiö, on Scrum viitekehys hyödyllinen. Joustavuus mahdollistaa sen, että jokainen tiimi voi luoda itselleen sopivan version Scrum-mallista.
+Säännölliset työsprintit ja kokoukset antavat ryhmälle mahdollisuuden mukautua jatkuvasti. On mahdollista tunnistaa työskentelyyn liittyviä heikkoja kohtia ja kehittää niitä päivittäispalaverien avulla. 
+
+
+### Yhteistyö 
+
+
 
 ## Lähteet
 1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
