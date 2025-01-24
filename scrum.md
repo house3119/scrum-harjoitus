@@ -21,7 +21,8 @@ Rooleja:
 * ohjelmoijat - Tuottavat suunnitelman sprintille ja toteuttavat sen (1)
 
 ## Kokoukset
-Kokoukset ja yhteydenpito teamsin kautta
+Kokoukset ja yhteydenpito teamsin kautta.
+Kokouksen yhteyksissä, keskustellaan käynnissä olevista sprintteistä, ongelma tilanteista ja parannus ehdotuksista. Kokouksissa käsitellään myös seuraavia sprinttejä ja yleistä suorittamista. Kokousten tavoitteena on edes auttaa projektin kehitystä kohti tähdättyä arvosanaa.
 ## Miksi Scrum toimii????
 ### Yksinkertaisuus
 Scrum-mallin kehityskehyksen yksinkertaisuus vähentää hallinnollista kuormaa, jolloin tiimin työ voidaan suunnata tehokkaammin itse kehitystyöhön (2).
