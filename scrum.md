@@ -1,4 +1,4 @@
-g
+
 # Scrum-ohje
 ryhmän nimi Scrummerit4ever
 ## Scrum-syklin yleiskuvaus
@@ -79,6 +79,20 @@ Muita haasteita Scrumin käytössä ovat:
 **_Puutteellinen sitoutuminen_**
 Näitä voidaan käsitellä lisää, kun päästään projektissa eteenpäin 
 
+### Ketterä it-helvetti, eli kaikkia Scrum ei miellytä
+
+Hiukan humoristisia otteita Suomi24 keskustelupalstalta vuodelta 2009
+
+"Aluksi tuli agile ja scrum, joilloin saimme vihdoin kauan kaivatun oikeiden päivittäin raportoida tekemisiämme. Todella hienoa! varmasti jokainen, joka joutuu työskentelemään ilman jokapäiväistä seurantaa kadehtii meitä kehittäjiä. Eipä enää koodarit pääse notkumaan tyhjän panttina, kun tekemisten seuranta on saatu melkein reaaliaikaiseksi.
+Nyt otetaan sitten käytöön uusi hieno käytäntö. Jokainen rivi koodia, jonka kirjoitamme, tarkistutetaan toisella kehittäjällä. Tästähän me kaikki olemme unelmoineet. Sanotaan sitä vaikka katselmoinniksi, koska kyttääminen kuulostaa pahemmalta, vaikka asia ei siitä miksikään muutu. Siis kulkeeko sairaanhoitajat osastolla joku toinen olan takana tarkistamassa kaikki työvaiheet? Miksei HKL:n kuljettajilla ole kakkoskuskia, jonka tehtävät on tarkkailla ratissa istuvan työn laatu?"
+-koodiorja
+
+"Ei niin hyvää, ettei jotain pahaakin. Scrumit sun muut ovat ihan helvetin hyviä juttuja, silloin kun ne toimivat oikein, vaan eivät silloin kun niitä muka käytetään - kuten teillä ilmeisesti."
+-The_Rat
+
+"Miksei saman tien linjamanagereille avata omalta työasemalta 24/7 näkymää alaistensa näytöille. Pelkkä scrummi kun ei aina saa joutavaa surffailua kuriin. Nytkin täällä vaan velttoilen kesken työpäivän."
+-koodiorja
+
 ## Lähteet
 1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 2. [https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework](https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework)
@@ -87,4 +101,5 @@ Näitä voidaan käsitellä lisää, kun päästään projektissa eteenpäin
 5. https://apmg-international.com/article/top-10-benefits-scrum-and-frequent-challenges
 6. https://www.atlassian.com/agile/project-management/scrum-values
 7. https://www.cgi.com/fi/fi/blogi/scrumin-sudenkuopat-ja-miten-ne-ylitetaan
+8. https://keskustelu.suomi24.fi/t/8580158/kettera-it-helvetti
 
