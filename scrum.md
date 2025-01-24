@@ -6,8 +6,7 @@ Tämän projektin kokonaispituus on 16 viikkoa, kalenteriviikot 3-7 ja 9-11. Yks
 
 Yleisesti ottaen Scrum koostuu Sprinteistä, jotka ovat keskenään saman mittaisia. Yksi sprintti kestää yleensä maksimissaan kuukauden. 
 
-Scrumissa hyödynnetään Product Backlogia, joka muovautuu projektin aikana. Product Backlogissa listataan tehtävät, joita tarvitaan tuotteen parantamiseksi. Jokaisessa Sprintissä on oma Sprint Backlog, johon valitaan tehtävät Product Backlogista. 
-[lähde](https://scrumguides.org/scrum-guide.html) 
+Scrumissa hyödynnetään Product Backlogia, joka muovautuu projektin aikana. Product Backlogissa listataan tehtävät, joita tarvitaan tuotteen parantamiseksi. Jokaisessa Sprintissä on oma Sprint Backlog, johon valitaan tehtävät Product Backlogista (1).
 
 ## Sprintit
 Scrummissa jaetaan projektin työt pienempiin, hallittaviin osiin, joita kutsutaan *sprinteiksi*. Sprintin aikajakso on tyypillisesti **2-4 viikkoa**, jonka aikana tiimi pyrkii saattamaan valmiiksi määritellyn työmäärän. Jos edellistä sprinttiä __ei__ saada suoritetuksi aikataulussa, ei sprintille anneta lisäaikaa, vaan sitä jatketaan seuraavassa sprintissä.
@@ -19,19 +18,61 @@ Jokaisella henkilöllä on _oma_ roolinsa
 Rooleja: 
 * tuoteomistaja - Maksimoi syntyvän tuotteen arvon. Hallinnoi Product Backlogia 
 * scrum master - On vastuussa siitä, että Scrum-menetelmää käytetään oikein. On vastuussa Scrum-tiimin tehokkuudesta.
-* ohjelmoijat - Tuottavat suunnitelman sprintille ja toteuttavat sen
-[lähde](https://scrumguides.org/scrum-guide.html)
-
+* ohjelmoijat - Tuottavat suunnitelman sprintille ja toteuttavat sen (1)
 
 ## Kokoukset
-Kokoukset ja yhteydenpito teamsin kautta
-## Miksi Scrum toimii?
-### Yksinkertaisuus
-Scrum-mallin kehityskehyksen yksinkertaisuus vähentää hallinnollista kuormaa, jolloin tiimin työ voidaan suunnata tehokkaammin itse kehitystyöhön.
+Kokoukset ja yhteydenpito teamsin kautta.
+Kokouksen yhteyksissä, keskustellaan käynnissä olevista sprintteistä, ongelma tilanteista ja parannus ehdotuksista. Kokouksissa käsitellään myös seuraavia sprinttejä ja yleistä suorittamista. Kokousten tavoitteena on edes auttaa projektin kehitystä kohti tähdättyä arvosanaa.
 
+## Scrumin vahvuudet
+### Yksinkertaisuus
+Scrum-mallin kehityskehyksen yksinkertaisuus vähentää hallinnollista kuormaa, jolloin tiimin työ voidaan suunnata tehokkaammin itse kehitystyöhön (2).
 Lisäksi Scrum-malli lyhentää kehityssyklejä ja tuo mukanaan joustavuutta, joka mahdollistaa sen, että tiimit voivat tehokkaammin ja nopeammin vastata muuttuviin businessvaatimuksiin ja markkinaolosuhteisiin.
 ### Joustavuus
-Joustavuus mahdollistaa sen, että jokainen tiimi voi luoda itselleen sopivan version Scrum-mallista.
+Scrum-menetelmä voi mukautua eri tiimien ja projektien tarpeisiin. Oli kyseessä pieni startup-yritys tai suurempi pörssiyhtiö, on Scrum viitekehys hyödyllinen. Joustavuus mahdollistaa sen, että jokainen tiimi voi luoda itselleen sopivan version Scrum-mallista.
+Säännölliset työsprintit ja kokoukset antavat ryhmälle mahdollisuuden mukautua jatkuvasti. On mahdollista tunnistaa työskentelyyn liittyviä heikkoja kohtia ja kehittää niitä päivittäispalaverien avulla. 
+### Yhteistyö 
+Scrum-menetelmässä korostuu yhteistyö ja kommunikaatio. Päivittäispalaverit parantavat viestintää ja pitävät ryhmän jäsenet ajantasalla. Ongelmatilanteita voidaan ennaltaehkäistä sekä ratkoa tiimikavereiden tuella.
+ Scrumin roolijako mahdollistaa jokaiselle tiimin jäsenelle selkeät roolit ja vastuualueet. Roolijako mahdollistaa tehokkaan yhteistyön tiimin sisällä, mutta myös sidosryhmien kanssa. Sprint-review kokoukset antavat mahdollisuuden esitellä tuloksia sidosryhmille sekä kerätä arvokasta palautetta. 
 
-### Lähteet
-1. [https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework](https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework)
+Yhteistyön hyödyt
+1. **Tehokkaampi ongelmanratkaisu**
+2. **Alentunut riski burnoutille** 
+3. **Suurempi produktiivisuus**
+4. **Innovatiivisuus**
+5. **Jaettu työkuorma**
+6. **Edistää oppimista**
+7. **Parantaa työsuhteita**
+8. **Selkeämpi päätöksenteko**
+9. **Parempi kommunikaatio**
+10. **Parantaa sosiaalisia taitoja** 
+
+### Scrumin viisi arvoa
+"Scrumin arvot" tarjoavat eettisen koodin sekä käyttäytymis-suuntaviivan, joita tiimin jäsenien tulisi noudattaa. Nämä arvot auttavat luomaan luottamusta ja kunnioitusta muita tiimin jäseniä kohtaan. Nämä viisi arvoa ovat seuraavat:
+
+**_Sitoutuminen_**   
+Scrum-tiimin jäsenet työskentelevät yhdessä. Tämä vaatii luottamusta siihen, että tiimikaveri on sitoutunut. Jokaisen jäsenen tulee sitoutua sprintin prosessiin ja arvon luontiin asiakkaalle. Sitoutuminen auttaa myös luomaan luottamusta tiimin sisällä. 
+
+**_Rohkeus_**    
+Innovaatio vaatii rohkeutta. Todelliset läpimurrot syntyvät kun tiimin jäsenet uskaltavat olla rohkeita. Rohkeus on myös sitä, että uskalletaan sanoa ei epärealistisille vaatimuksille tai aikatauluille. Projektipäälliköt, jotka kannustavat rehellisiin keskusteluihin motivoi tiimin jäseniä ja edistää jatkuvaa kehitystä. 
+
+**_Keskittyminen_**    
+Laadukkaat sprintit vaativat keskittymistä. Scrumin työkalut auttavat tiimiä pysymään keskittyneenä tärkeimpiin tehtäviin ja tavoitteisiin. Tämä on tärkeää, jotta projektitavoitteet saavutetaan ajallaan ja johdonmukaisesti. 
+
+**_Avoimuus_**   
+Scrum-tiimin jäsenien tulee olla avoimia ja viestiä rehellisesti. Avoimuus auttaa tiimiä havaitsemaan ongelmakohtia, löytämään ratkaisuja sekä arvostamaan jokaisen tuomaa panosta. Avoimuus on suuri osa onnistunutta projektia. 
+
+**_Kunnioitus_**     
+Kun tehdään yhteistyötä tiimin kesken, on eriävät mielipiteet välttämättömiä. Erilaisten näkökulmien huomioiminen on osa tiimityötä. Kunnioitus muita kohtaan edellyttää sitoutumista arvostaa toisten mielipiteitä, eriäviä näkemyksiä ja yksilöllisiä eroja. Monimuotoisuus tuo mukanaan uusia näkökulmia ja enemmän ideoita. Tiimin jäsenet jotka tuntevat itsensä kunnioitetuksi tuovat todennäköisemmin esille omia ajatuksiaan, mikä vahvistaa positiivista ilmapiiriä. Kunnioitus muita jäseniä kohtaan on edellytys onnistuneelle projektille. 
+
+
+
+## Lähteet
+1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+2. [https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework](https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework)
+3. https://www.betterup.com/blog/benefits-of-teamwork
+4. https://www.atlassian.com/blog/teamwork/the-importance-of-teamwork
+5. https://apmg-international.com/article/top-10-benefits-scrum-and-frequent-challenges
+6. https://www.atlassian.com/agile/project-management/scrum-values
+
+
