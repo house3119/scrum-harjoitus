@@ -31,11 +31,23 @@ Lisäksi Scrum-malli lyhentää kehityssyklejä ja tuo mukanaan joustavuutta, jo
 ### Joustavuus
 Scrum-menetelmä voi mukautua eri tiimien ja projektien tarpeisiin. Oli kyseessä pieni startup-yritys tai suurempi pörssiyhtiö, on Scrum viitekehys hyödyllinen. Joustavuus mahdollistaa sen, että jokainen tiimi voi luoda itselleen sopivan version Scrum-mallista.
 Säännölliset työsprintit ja kokoukset antavat ryhmälle mahdollisuuden mukautua jatkuvasti. On mahdollista tunnistaa työskentelyyn liittyviä heikkoja kohtia ja kehittää niitä päivittäispalaverien avulla. 
-
-
 ### Yhteistyö 
+Scrum-menetelmässä korostuu yhteistyö ja kommunikaatio. Päivittäispalaverit parantavat viestintää ja pitävät ryhmän jäsenet ajantasalla. Ongelmatilanteita voidaan ennaltaehkäistä sekä ratkoa tiimikavereiden tuella.
+ Scrumin roolijako mahdollistaa jokaiselle tiimin jäsenelle selkeät roolit ja vastuualueet. Roolijako mahdollistaa tehokkaan yhteistyön tiimin sisällä, mutta myös sidosryhmien kanssa. Sprint-review kokoukset antavat mahdollisuuden esitellä tuloksia sidosryhmille sekä kerätä arvokasta palautetta. 
 
+Yhteistyön hyödyt
+1. **Tehokkaampi ongelmanratkaisu**
+2. **Alentunut riski burnoutille** 
+3. **Suurempi produktiivisuus**
+4. **Innovatiivisuus**
+5. **Jaettu työkuorma**
+6. **Edistää oppimista**
+7. **Parantaa työsuhteita**
+8. **Selkeämpi päätöksenteko**
+9. **Parempi kommunikaatio**
+10. **Parantaa sosiaalisia taitoja** 
 
+###
 
 ## Lähteet
 1. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
